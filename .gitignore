@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+*
+/config/
+/Lib/
+/Scripts/
+/static/forms/
+/static/assets/scss/
+/static/assets/vendor/
